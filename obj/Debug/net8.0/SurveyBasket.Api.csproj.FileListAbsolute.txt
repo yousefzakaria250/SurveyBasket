@@ -30,3 +30,4 @@ D:\.Net Project\SurveyBasket\SurveyBasket.Api\obj\Debug\net8.0\refint\SurveyBask
 D:\.Net Project\SurveyBasket\SurveyBasket.Api\obj\Debug\net8.0\SurveyBasket.Api.pdb
 D:\.Net Project\SurveyBasket\SurveyBasket.Api\obj\Debug\net8.0\SurveyBasket.Api.genruntimeconfig.cache
 D:\.Net Project\SurveyBasket\SurveyBasket.Api\obj\Debug\net8.0\ref\SurveyBasket.Api.dll
+D:\.Net Project\SurveyBasket\SurveyBasket.Api\obj\Debug\net8.0\SurveyBasket.Api.sourcelink.json
